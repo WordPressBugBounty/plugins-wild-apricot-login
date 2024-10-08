@@ -1,0 +1,38 @@
+.wp-core-ui .button.wa_integration_settings_button.wa_integration_settings_button,
+.wp-core-ui .button-group.button-small .button.wa_integration_settings_button {
+    height: 28px;
+    line-height: 26px;
+    font-size: 13px;
+    padding: 0 10px 1px;
+}
+.button.wa_integration_settings_button
+{
+    height: 28px;
+    line-height: 26px;
+    font-size: 13px;
+}
+
+.wa_integration_settings_button_spinner
+{
+    float: left;
+    margin-left: 0;
+    margin-top: 0;
+    visibility: visible;
+    display: none;
+}
+
+.wa_integration_settings_button_spinner.visible
+{
+    display: block;
+}
+
+.wa_integration_settings .form-table
+{
+    margin-top: 0;
+}
+
+.wa_integration_settings th,
+.wa_integration_settings td
+{
+    padding-bottom: 0;
+}
